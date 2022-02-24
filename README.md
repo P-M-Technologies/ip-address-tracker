@@ -7,7 +7,7 @@
 
 # 🌍 Live
 
-https://next-js-ip-address-tracker.vercel.app/
+https://ip-tracker.pmtech.no/
 
 # 🧰 Toolbox
 
